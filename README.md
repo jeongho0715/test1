@@ -7,3 +7,7 @@
   ![GitHub license](https://img.shields.io/github/license/jeongho0715/test1)
 </div>
 
+## TIL(Today I Learned)
+### Week 1
+- Setting Github Repository
+- Setting Colab
