@@ -1,1 +1,9 @@
-# test1
+<div align="center">
+  
+  # Deep Learning for AI
+
+  Respository for Deep Learning for AI class on Chung-Ang University
+  
+  ![GitHub license](https://img.shields.io/github/license/jeongho0715/test1)
+</div>
+
